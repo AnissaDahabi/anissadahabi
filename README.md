@@ -1,7 +1,6 @@
 
 # Hello, je m'appelle Anissa 🌱
 <br>
-<br>
 Je suis étudiante en BTS SIO dans le but de devenir <b>développeuse</b> :)
 <br>
 <br>
