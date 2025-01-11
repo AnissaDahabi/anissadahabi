@@ -36,15 +36,6 @@ Je travaille actuellement sur mon portfolio
 </div>
 <br>
 <br>
-<b>Mes IDE :</b>
-<br>
-<br>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="50" alt="jetbrains logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /><img width="12" />
-</div>
-<br>
-<br>
 <b>Logiciels d'édition et de design :</b>
 <br>
 <br>
@@ -67,6 +58,12 @@ Je travaille actuellement sur mon portfolio
 </div>
 <br>
 <br>
-
+<b>Mes IDE :</b>
+<br>
+<br>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="50" alt="jetbrains logo"  /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /><img width="12" />
+</div>
 
 
