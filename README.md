@@ -46,6 +46,6 @@ Je travaille actuellement sur mon portfolio
 
 <br>
 <br>
-N'hésitez pas à me contacter si besoin :)
+
 
 
