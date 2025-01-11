@@ -1,17 +1,18 @@
 
-Hello, je m'appelle Anissa 🌱
+# Hello, je m'appelle Anissa 🌱
 <br>
 <br>
-Je suis étudiante en BTS SIO dans le but de devenir développeuse :)
+Je suis étudiante en BTS SIO dans le but de devenir <b>développeuse</b> :)
 <br>
 <br>
 Je travaille actuellement sur mon portfolio
 <br>
+<br>
 
-💫 Mon Tech Stack:
+# 💫 Mon Tech Stack:
 
 <br>
-Langages de programmation:
+<b>Langages de programmation:</b>
 <br>
 <br>
 
@@ -24,7 +25,7 @@ Langages de programmation:
 
 <br>
 <br>
-Logiciels de design :
+<b>Logiciels de design :</b>
 <br>
 <br>
 
@@ -34,7 +35,7 @@ Logiciels de design :
 
 <br>
 <br>
-Autres : 
+<b>Autres :</b>
 <br>
 <br>
 
