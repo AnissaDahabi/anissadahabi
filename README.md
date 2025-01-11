@@ -11,7 +11,7 @@ Je travaille actuellement sur mon portfolio
 # 💫 Mon Tech Stack:
 
 <br>
-<b>Langages de programmation:</b>
+<b>Langages de programmation :</b>
 <br>
 <br>
 
@@ -24,7 +24,7 @@ Je travaille actuellement sur mon portfolio
 
 <br>
 <br>
-<b>Logiciels de design :</b>
+<b>Logiciels d'édition et de design :</b>
 <br>
 <br>
 
