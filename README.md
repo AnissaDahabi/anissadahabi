@@ -7,6 +7,9 @@ Je suis étudiante en BTS SIO dans le but de devenir <b>développeuse</b> :)
 Je travaille actuellement sur mon portfolio
 <br>
 <br>
+J'aimerais me spécialiser en Java!!
+<br>
+<br>
 
 # 💫 Mon Tech Stack:
 
