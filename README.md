@@ -1,17 +1,15 @@
 
 # Hello, je m'appelle Anissa 🌱
-<div align="left">
+
 Je suis étudiante en BTS SIO dans le but de devenir <b>développeuse</b> :)
 <br>
 <br>
-Je travaille actuellement sur mon portfolio
+Je travaille actuellement sur mon portfolio <img align="right" height="150" src="https://i.pinimg.com/originals/bf/5a/74/bf5a7484d8584ef015d726ea51509be7.gif"  />
 <br>
 <br>
 J'aimerais me spécialiser en Java!!
-</div>
-<div>
-<img align="right" height="150" src="https://i.pinimg.com/originals/bf/5a/74/bf5a7484d8584ef015d726ea51509be7.gif"  />
-</div>
+<br>
+<br>
 
 # 💫 Mon Tech Stack:
 
