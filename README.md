@@ -7,6 +7,10 @@ Je suis étudiante en BTS SIO dans le but de devenir <b>développeuse</b> :) <im
 Je travaille actuellement sur mon portfolio
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 # 💫 Mon Tech Stack:
 
