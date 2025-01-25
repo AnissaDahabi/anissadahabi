@@ -4,9 +4,9 @@
 Je suis étudiante en BTS SIO dans le but de devenir <b>développeuse</b> :) <img align="right" height="200" src="lapin4.gif"/>
 <br>
 <br>
-Je travaille actuellement sur mon portfolio
 <br>
 <br>
+Je travaille actuellement sur mon portfolio !!
 <br>
 <br>
 <br>
