@@ -6,8 +6,6 @@ Je suis étudiante en BTS SIO dans le but de devenir <b>développeuse</b> :) <im
 <br>
 <br>
 <br>
-Je travaille actuellement sur mon portfolio !!
-<br>
 <br>
 <br>
 <br>
