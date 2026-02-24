@@ -1,44 +1,60 @@
+## 👋 About Me  
+BTS SIO student at EFREI (2024–2026), currently working as a DevOps apprentice with a strong focus on **Microsoft Azure administration**.  
 
-# 💫 Mon Tech Stack:
+Before this, I worked in **IT support**, then joined the **cybersecurity team**, giving me a solid understanding of operational security, incident monitoring and user awareness.
 
-<br>
-<b>Langages maîtrisés :</b>
-<br>
-<br>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="java logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /><img width="12" />
-</div>
-<br>
-<br>
-<b>Logiciels d'édition et de design :</b>
-<br>
-<br>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  /><img width="12" />
-</div>
-<br>
-<br>
-<b>Autres outils :</b>
-<br>
-<br>
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="55" alt="azure logo"  /><img width="12" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" height="40" alt="confluence logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" alt="jira logo"  /><img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="40" alt="debian logo"  /><img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  /><img width="12" /> 
-</div>
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anissadahabi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+I also genuinely enjoy **developping** websites and apps.
+
+🎯 **Goal:** Become a Cloud / DevSecOps Engineer.
+
+---
+
+## ☁️ Azure & DevOps  
+- Azure Active Directory (Entra ID)  
+- RBAC & identity management  
+- Virtual Machines deployment & administration  
+- Azure Storage management  
+- Monitoring & resource supervision  
+- Patch management  
+- Linux basics  
+- Scripting fundamentals  
+- CI/CD fundamentals  
+
+---
+
+## 🔐 Cybersecurity Experience  
+- Deployment of security patches (patch management)  
+- Monitoring of cybersecurity incidents and alerts  
+- Incident escalation & collaboration with IT teams  
+- Internal phishing simulation campaigns  
+- User awareness sessions & post‑campaign debriefings  
+- Security documentation (procedures, guides, awareness materials)  
+
+---
+
+## 💻 Technical Skills  
+
+### **Development Stack**  
+- PHP
+- Python
+- TypeScript
+- React
+- Java (basics)  
+- SQL (MySQL / MariaDB)  
+- HTML / CSS  
+
+### **Infrastructure & Security**  
+- Azure administration & resource management
+- Identity & access management (Entra ID)
+- Network basics (VNet, NSG, routing concepts)
+- Secure authentication & access policies
+
+---
+
+## 📌 Next Steps  
+- **May 2026:** BTS SIO SLAM final exams
+- **Summer 2026:** Departure to Japan for a **Working Holiday Visa**
+- Continue preparing for **AZ‑104**
+- Strengthen my DevOps and coding skills
+
 
