@@ -1,5 +1,5 @@
 ## 👋 About Me  
-BTS SIO student at EFREI (2024–2026), currently working as a DevOps apprentice with a strong focus on **Microsoft Azure administration**.
+BTS SIO student at EFREI (2024-2026), currently working as a DevOps apprentice with a strong focus on **Microsoft Azure administration**.
 
 Before this, I worked in **IT support**, then joined the **cybersecurity team**, giving me a solid understanding of operational security, incident monitoring and user awareness.
 
