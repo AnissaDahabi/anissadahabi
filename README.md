@@ -48,6 +48,9 @@ I also genuinely enjoy **developping** websites and apps.
 - Identity & access management (Entra ID)
 - Network basics (VNet, NSG, routing concepts)
 - Secure authentication & access policies
+- Patch management & vulnerability awareness
+- Monitoring, alert handling & incident escalation
+- Security best practices (least privilege, MFA, password hygiene)
 
 ---
 
