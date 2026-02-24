@@ -18,7 +18,6 @@ I also genuinely enjoy **developing** websites and apps.
 - Linux basics & scripting fundamentals
 - CI/CD fundamentals
 
----
 
 ## 💻 Development Stack
 - PHP
