@@ -5,8 +5,6 @@ Before this, I worked in **IT support**, then joined the **cybersecurity team**,
 
 I also genuinely enjoy **developing** websites and apps.
 
-🎯 **Goal:** Become a Cloud / DevSecOps Engineer.
-
 ---
 
 ## ☁️ Azure, DevOps & Security Skills
